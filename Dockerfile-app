@@ -1,4 +1,4 @@
-ARG REGISTRY_NAME
+#ARG REGISTRY_NAME
 FROM acrtasktest.azurecr.io/baseimages/node:15-alpine
 
 COPY . /src
