@@ -8,7 +8,7 @@ on:
       [ master ]
     paths:
     - 'Dockerfile-app/**'
-    - '.github/workflows/acrtaskcontainerapp-AutoDeployTrigger-c051d169-bba9-4212-a235-445710347598.yml'
+    - '.github/workflows/acrtaskcontainerapp-AutoDeployTrigger-f7f3f1b9-c589-4a71-a4d2-cce4b20ae506.yml'
 
   # Allow mannually trigger 
   workflow_dispatch:      
